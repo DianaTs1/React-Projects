@@ -1,0 +1,16 @@
+.button {
+    width: fit-content;
+    padding: 10px 30px;
+    background-color: rgb(211, 229, 230);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-weight: 800;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    background-color: white;
+  }
